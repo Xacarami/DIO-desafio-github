@@ -2,4 +2,4 @@
 
 Criar um repositório, onde terei muitos outros projetos no meu perfil no GitHub.
 
-Dessa forma, a ideia desse desafio é de perder o medo de criar repositórios e colocar arquivos e códigos, e sempre ir alimentando o meu perfil, já que empresas utilizam o github, e também outros DEVs
+Dessa forma, a ideia desse desafio é de perder o medo de criar repositórios e colocar arquivos e códigos, e sempre ir alimentando o meu perfil, já que empresas utilizam o github, e também outros DEVs.
